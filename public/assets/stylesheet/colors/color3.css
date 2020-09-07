@@ -1,0 +1,84 @@
+/* text-color 
+------------------------------------------ */
+	.flat-info ul li:before,
+	.text-e8b006,
+	.flat-title .icon span,
+	#mainnav ul.submenu > li:hover > a, 
+	#mainnav ul.submenu > li.active > a {
+		color: #ffde3b;
+	}
+
+/* background-color 
+------------------------------------------ */
+	.top .flat-socails ul li:before,
+	#header.header-v1 #mainnav > ul > li.active > a, 
+	#header.header-v2 #mainnav > ul > li.active > a,
+	#header.header-v1 #mainnav > ul > li:hover > a, 
+	#header.header-v2 #mainnav > ul > li:hover > a,
+	.flat-action.style1 .wrap-icon .icon,
+	.style1.imgbox .imgbox-content,
+	.flat-why-us .accordion-toggle.active .toggle-title.right h5:after, .flat-why-us .accordion-toggle.active .toggle-title.left h5:before,
+	.style1.imgbox .imgbox-content.bg-v1,
+	.post.blog-grid-v1 .icon-post,
+	.imgbox .flat-socails li:hover > a,
+	.flat-action.style1 .wrap-icon .icon.style2 {
+		background: #ffde3b;
+	}
+
+/* border 
+------------------------------------------- */
+	#header.header-v1 #mainnav > ul > li.active > a:before, #header.header-v2 #mainnav > ul > li.active > a:before, #header.header-v1 #mainnav > ul > li > a:before, #header.header-v2 #mainnav > ul > li > a:before {
+		border-left: 5px solid transparent;
+		border-right: 5px solid transparent;
+		border-top: 5px solid #ffde3b;
+	}
+
+	.flat-action.style1 .wrap-icon .icon:after {
+	    border-top: 50px solid transparent;
+	    border-bottom: 50px solid transparent;
+	    border-left: 20px solid #ffde3b;
+	}
+
+	.style1.imgbox .imgbox-content:before {
+		border-left: 185px solid transparent;
+		border-right: 185px solid transparent;
+		border-bottom: 29px solid #ffde3b;
+	}
+
+	.flat-title.v1 h2:after {
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		border-top: 10px solid #ffde3b;
+	}
+
+	.style1.imgbox .imgbox-content.bg-v1:before {
+		border-bottom: 29px solid #ffde3b;
+	}
+
+	.post.blog-grid-v1 .icon-post:after {
+		border-left: 25px solid transparent;
+		border-right: 25px solid transparent;
+		border-top: 15px solid #ffde3b;
+	}
+
+	.btn-defect:after {
+		border-right: 4px solid #ffde3b;
+		border-bottom: 6px solid #ffde3b;
+	}
+
+	.flat-vehicle-services .owl-carousel button.owl-dot.active, 
+	.flat-news-section .owl-carousel button.owl-dot.active,
+	.flat-vehicle-services .owl-carousel button.owl-dot:hover,
+	.flat-news-section .owl-carousel button.owl-dot:hover {
+		background: #ffde3b;
+		border: 1px solid #ffde3b; 
+	}
+
+	.flat-action.style1 .wrap-icon .icon.style2:after {
+		border-left: 20px solid #ffde3b;
+	}
+
+	#header.header-v1 .overlay, 
+	#header.header-v2 .overlay {
+		background: #1b1b1b;
+	}

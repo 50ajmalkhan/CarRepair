@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Tyre and Wheel",
+    "img": "/assets/images/home2/our-service-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Belt and Hoses",
+    "img": "/assets/images/home2/our-service-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Break Repair",
+    "img": "/assets/images/home2/our-service-3.png"
+  },
+  {
+    "id": 4,
+    "title": "Lube and Filter",
+    "img": "/assets/images/home2/our-service-4.png"
+  }
+]

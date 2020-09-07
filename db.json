@@ -1,0 +1,25 @@
+{
+  "appoinment": [
+    {
+      "id": 1,
+      "vehicleYear": "",
+      "vehicleMake": "",
+      "vehicleMileage": "",
+      "appoinmentDate": "",
+      "preferTimeFrame": "",
+      "airConditioning": "",
+      "wheelAlignment": "",
+      "OilLubFilters": "",
+      "heatingCooling": "",
+      "brakeRepair": "",
+      "steeringSuspension": "",
+      "engineDiagnostic": "",
+      "transmissionRepair": "",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "subject": "",
+      "message": ""
+    }
+  ]
+}
